@@ -22,9 +22,22 @@ date-format: "MMMM YYYY"
 
 **Navitas Data Sciences Inc.** | 2005 - Present
 
-Jeff Dickinson is a professional Associate Director, Clinical Reporting, with more than 29 years of experience in SAS programming and analytical consulting. Specialized in pharmaceutical clinical reporting for the last 17 years and is an expert in the areas of clinical reporting, biostatistical programming and Pharmacokinetics (PK). Recent experience includes: Project Manager for a PK team of programmers; developer of macros for standardized PK dataset programming process; development and QC programming for NONMEM and Exposure Response analysis; development of PKS analysis-ready datasets and PK concentration tables, listing, and graphs; QC programming team lead for global series of clinical studies utilizing CDISC data standards (SDTM and ADaM); QC programming team lead for laboratory dataset programming; QC programming (datasets, tables, listings, and graphs) for major clinical studies; clinical data programming for tables, listings, and graphs; creation and verification programming of patient profiles for an NDA submission; technical SAS programming and project management of clinical programming teams.
+Jeff Dickinson is a professional Associate Director, Clinical Reporting, with more than 29 years of experience in pharmaceutical data science and statistical programming. Over the past four years, he has focused intensively on R programming and open-source development, leading teams of programmers and QC reviewers in implementing new processes using R and Git version control. He is recognized as an expert in clinical reporting, biostatistical programming, and Pharmacokinetics (PK), with specialized expertise in CDISC data standards and the pharmaverse ecosystem.
 
-Extensive experience with R programming including package development, maintenance, and contribution to the pharmaverse ecosystem. Active developer and maintainer of admiral-related packages for CDISC-compliant clinical trial data analysis. Key R accomplishments include: package maintainer for pharmaverse R packages supporting CDISC ADaM dataset creation; developer of functions for pharmacokinetic analysis including timepoint conversion and NFRLT derivation; contributor to pharmaverse documentation and example implementations; implementation of automated testing frameworks achieving >80% code coverage; development of JSON file handling functionality for metacore package specifications; creation of exposure-response modeling workflows using CDISC standards. Proficient in modern R development practices including version control with Git/GitHub, automated testing with testthat, continuous integration with GitHub Actions, and development environments including RStudio and Positron IDE.
+**Recent R and Open-Source Leadership (2021-Present):**
+
+- **Admiral Core Team Member** (4 years): Active core developer and maintainer of admiral packages, contributing to the pharmaverse ecosystem for CDISC-compliant clinical trial data analysis
+- Led organizational transition to R-based workflows, establishing Git version control processes and modern development practices for clinical programming teams
+- **PHUSE Working Group Member**: The Use of Git in Statistical Programming - Contributing to industry standards for version control in regulated environments
+- Developer of functions for pharmacokinetic analysis including timepoint conversion (`convert_xxtpt_to_hours()`) and NFRLT derivation (`derive_var_nfrlt()`)
+- Implementation of automated testing frameworks achieving >80% code coverage across multiple packages
+- Development of JSON file handling functionality for metacore package specifications
+- Creator of exposure-response modeling workflows using CDISC standards and admiral
+- Contributor to pharmaverse documentation and example implementations
+
+**Earlier Experience:**
+
+Project Manager for PK teams; developer of macros for standardized PK dataset programming; development and QC programming for NONMEM and Exposure Response analysis; QC programming team lead for global series of clinical studies utilizing CDISC data standards (SDTM and ADaM); clinical data programming for tables, listings, graphs, and patient profiles for NDA submissions; technical SAS programming and project management of clinical programming teams.
 
 ## Technical Skills
 
@@ -67,6 +80,14 @@ Managed programming teams for Respiratory Therapeutic Area (TA) and Experimental
 - Assistant Research Scientist, Department of Biology, New York University, New York, NY, 1996-1997
 - Graduate Assistant, Michigan State University, East Lansing, MI, 1991-1996
 - Teaching Assistant, University of Toronto, Toronto, Canada, 1990-1991
+
+## Selected Publications and Presentations
+
+- Dickinson, J. A. (2024). "Population Pharmacokinetic Analysis Data (ADPPK) Programming in {admiral} and the pharmaverse." *PHUSE US Connect 2024*, Bethesda, MD.
+
+- Dickinson, J. A. (2023). "Programming ADNCA using R and {admiral}." *PHUSE US Connect 2023*, Orlando, FL.
+
+- Dickinson, J. A. (2026). "Standardizing Exposure-Response Data for Modeling and Simulation Using CDISC Principles and {admiral}." *PHUSE US Connect 2026*, Austin, TX. [Accepted]
 
 ## Clinical Data Standards Education
 
