@@ -29,5 +29,4 @@ format:
       - margin=1in
     fontsize: 11pt
     colorlinks: true
-  docx: 
-    reference-doc: assets/custom-reference.docx
+  docx: default

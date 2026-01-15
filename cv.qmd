@@ -13,8 +13,7 @@ format:
     geometry: 
       - margin=1in
     fontsize: 11pt
-  docx:
-    reference-doc: assets/custom-reference.docx
+  docx: default
 date: today
 date-format: "MMMM YYYY"
 ---
