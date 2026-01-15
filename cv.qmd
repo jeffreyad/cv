@@ -24,7 +24,7 @@ date-format: "MMMM YYYY"
 
 Jeff Dickinson is a professional Associate Director, Clinical Reporting, with more than 29 years of experience in pharmaceutical data science and statistical programming. Over the past four years, he has focused intensively on R programming and open-source development, leading teams of programmers and QC reviewers in implementing new processes using R and Git version control. He is recognized as an expert in clinical reporting, biostatistical programming, and Pharmacokinetics (PK), with specialized expertise in CDISC data standards and the pharmaverse ecosystem.
 
-**Recent R and Open-Source Leadership (2021-Present):**
+**Recent R and Open-Source Leadership (2022-Present):**
 
 - **Admiral Core Team Member** (4 years): Active core developer and maintainer of admiral packages, contributing to the pharmaverse ecosystem for CDISC-compliant clinical trial data analysis
 - Led organizational transition to R-based workflows, establishing Git version control processes and modern development practices for clinical programming teams
@@ -43,7 +43,7 @@ Project Manager for PK teams; developer of macros for standardized PK dataset pr
 ## Technical Skills
 
 - **R Programming**: Package development (admiral, pharmaverse examples, pharmaverseadam, pharmaversesdtm, metatools, metacore)
-- **SAS Programming**: Clinical reporting, macro development, biostatistical analysis
+- **SAS Programming**: Clinical reporting, QC programming, macro development, biostatistical analysis
 - **Clinical Data Standards**: CDISC (SDTM, ADaM, ARD), pharmacokinetic analysis, exposure-response modeling
 - **Development Tools**: Git/GitHub, Positron IDE, RStudio, continuous integration workflows
 
