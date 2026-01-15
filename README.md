@@ -56,7 +56,7 @@ This CV is automatically published to GitHub Pages using GitHub Actions. Any pus
 
 - **GitHub**: [@jeffreyad](https://github.com/jeffreyad)
 - **LinkedIn**: [Your Profile](https://linkedin.com/in/jeffreyad)
-- **Email**: your.email@example.com
+- **Email**: jeff.dickinson@navitaslifesciences.com
 
 ## License
 

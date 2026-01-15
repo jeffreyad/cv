@@ -28,12 +28,13 @@ Jeff Dickinson is a professional Associate Director, Clinical Reporting, with mo
 
 - **Admiral Core Team Member** (4 years): Active core developer and maintainer of admiral packages, contributing to the pharmaverse ecosystem for CDISC-compliant clinical trial data analysis
 - Led organizational transition to R-based workflows, establishing Git version control processes and modern development practices for clinical programming teams
-- **PHUSE Working Group Member**: The Use of Git in Statistical Programming - Contributing to industry standards for version control in regulated environments
 - Developer of functions for pharmacokinetic analysis including timepoint conversion (`convert_xxtpt_to_hours()`) and NFRLT derivation (`derive_var_nfrlt()`)
 - Implementation of automated testing frameworks achieving >80% code coverage across multiple packages
 - Development of JSON file handling functionality for metacore package specifications
 - Creator of exposure-response modeling workflows using CDISC standards and admiral
 - Contributor to pharmaverse documentation and example implementations
+- **PHUSE Working Group Member**: The Use of Git in Statistical Programming - Contributing to industry standards for version control in regulated environments
+
 
 **Earlier Experience:**
 
@@ -41,7 +42,7 @@ Project Manager for PK teams; developer of macros for standardized PK dataset pr
 
 ## Technical Skills
 
-- **R Programming**: Package development (admiral, metacore), tidyverse, testthat, roxygen2, GitHub Actions, pkgdown, Shiny
+- **R Programming**: Package development (admiral, pharmaverse examples, pharmaverseadam, pharmaversesdtm, metatools, metacore)
 - **SAS Programming**: Clinical reporting, macro development, biostatistical analysis
 - **Clinical Data Standards**: CDISC (SDTM, ADaM, ARD), pharmacokinetic analysis, exposure-response modeling
 - **Development Tools**: Git/GitHub, Positron IDE, RStudio, continuous integration workflows
