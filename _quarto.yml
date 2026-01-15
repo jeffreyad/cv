@@ -5,6 +5,7 @@ project:
 website:
   title: "Jeffrey A. Dickinson, PhD"
   favicon: assets/favicon.ico
+  site-url: https://jeffreyad.github.io/cv
   navbar:
     left:
       - text: "CV"

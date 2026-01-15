@@ -35,7 +35,6 @@ Jeff Dickinson is a professional Associate Director, Clinical Reporting, with mo
 - Contributor to pharmaverse documentation and example implementations
 - **PHUSE Working Group Member**: The Use of Git in Statistical Programming - Contributing to industry standards for version control in regulated environments
 
-
 **Earlier Experience:**
 
 Project Manager for PK teams; developer of macros for standardized PK dataset programming; development and QC programming for NONMEM and Exposure Response analysis; QC programming team lead for global series of clinical studies utilizing CDISC data standards (SDTM and ADaM); clinical data programming for tables, listings, graphs, and patient profiles for NDA submissions; technical SAS programming and project management of clinical programming teams.
@@ -96,7 +95,3 @@ Managed programming teams for Respiratory Therapeutic Area (TA) and Experimental
 - **CDISC Programming Standards Part 2**, DataCeutics, Inc., 2011
 - **SDTM Training Part 1-12**, DataCeutics, Inc., 2015
   - Introduction, Data Model & IGs, General Observation Classes, Domains & Variables, Duration & Relative Time Variables, DM + Interventions + Events, DS & Timing Variables, Findings, Relationships, Trial Design, SE & SV, and Conformance & Common Issues
-
----
-
-*Last updated: `r format(Sys.Date(), "%B %Y")`*

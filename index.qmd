@@ -1,0 +1,9 @@
+---
+title: "Jeffrey A. Dickinson, PhD"
+---
+
+```{=html}
+<meta http-equiv="refresh" content="0; url=cv.html">
+```
+
+Redirecting to [CV](cv.html)...
