@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jeffrey A. Dickinson, PhD"
+  favicon: assets/favicon.ico
+  navbar:
+    left:
+      - text: "CV"
+        href: cv.html
+    right:
+      - icon: github
+        href: https://github.com/jeffreyad
+      - icon: linkedin
+        href: https://linkedin.com/in/jeffreyad
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    css: assets/styles.css
+    anchor-sections: true
+    smooth-scroll: true
+  pdf:
+    documentclass: article
+    geometry: 
+      - margin=1in
+    fontsize: 11pt
+    colorlinks: true
+  docx: 
+    reference-doc: assets/custom-reference.docx

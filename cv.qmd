@@ -1,0 +1,81 @@
+---
+title: "Curriculum Vitae"
+author: "Jeffrey A. Dickinson, PhD"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    theme: cosmo
+    css: assets/styles.css
+    embed-resources: false
+  pdf:
+    documentclass: article
+    geometry: 
+      - margin=1in
+    fontsize: 11pt
+  docx:
+    reference-doc: assets/custom-reference.docx
+date: today
+date-format: "MMMM YYYY"
+---
+
+## Associate Director, Clinical Reporting
+
+**Navitas Data Sciences Inc.** | 2005 - Present
+
+Jeff Dickinson is a professional Associate Director, Clinical Reporting, with more than 29 years of experience in SAS programming and analytical consulting. Specialized in pharmaceutical clinical reporting for the last 17 years and is an expert in the areas of clinical reporting, biostatistical programming and Pharmacokinetics (PK). Recent experience includes: Project Manager for a PK team of programmers; developer of macros for standardized PK dataset programming process; development and QC programming for NONMEM and Exposure Response analysis; development of PKS analysis-ready datasets and PK concentration tables, listing, and graphs; QC programming team lead for global series of clinical studies utilizing CDISC data standards (SDTM and ADaM); QC programming team lead for laboratory dataset programming; QC programming (datasets, tables, listings, and graphs) for major clinical studies; clinical data programming for tables, listings, and graphs; creation and verification programming of patient profiles for an NDA submission; technical SAS programming and project management of clinical programming teams.
+
+Extensive experience with R programming including package development, maintenance, and contribution to the pharmaverse ecosystem. Active developer and maintainer of admiral-related packages for CDISC-compliant clinical trial data analysis. Key R accomplishments include: package maintainer for pharmaverse R packages supporting CDISC ADaM dataset creation; developer of functions for pharmacokinetic analysis including timepoint conversion and NFRLT derivation; contributor to pharmaverse documentation and example implementations; implementation of automated testing frameworks achieving >80% code coverage; development of JSON file handling functionality for metacore package specifications; creation of exposure-response modeling workflows using CDISC standards. Proficient in modern R development practices including version control with Git/GitHub, automated testing with testthat, continuous integration with GitHub Actions, and development environments including RStudio and Positron IDE.
+
+## Technical Skills
+
+- **R Programming**: Package development (admiral, metacore), tidyverse, testthat, roxygen2, GitHub Actions, pkgdown, Shiny
+- **SAS Programming**: Clinical reporting, macro development, biostatistical analysis
+- **Clinical Data Standards**: CDISC (SDTM, ADaM, ARD), pharmacokinetic analysis, exposure-response modeling
+- **Development Tools**: Git/GitHub, Positron IDE, RStudio, continuous integration workflows
+
+## Professional Experience
+
+### PPD
+**SAS Programmer** | 2004 - 2005
+
+Provided SAS programming services to medical device division of major CRO; programmed tables and listings for clinical study reports; responsible for the verification of programs for NDA submission; functioned as lead programmer on several projects, coordinating the programming activities of other programmers.
+
+### Peabus Consulting, LLC
+**Statistical Programming** | 2003 - 2004
+
+Provided biostatistical programming services to clients in the pharmaceutical industry; created and verified the programming of patient profiles for a major pharmaceutical company for an NDA submission. Designed and delivered training on "Good Statistical Programming Practice" for pharmaceutical company.
+
+### 3M Pharmaceuticals
+**Supervisor, Statistical Programming** | 2002 - 2003
+
+Established new statistical programming group for 3M Pharmaceuticals; conducted national and regional search to fill six simultaneous openings for statistical programmers; wrote new Work Practice Guidelines for SAS programming; led Six Sigma Green Belt team on data edit programming; planned strategy for electronic submission. Implemented standard submission dataset structures (CDISC); worked out technical specifications on assembling datasets and data definition files for electronic submission.
+
+### AstraZeneca
+**Senior Manager, Statistical Programming** | 1998 - 2001
+
+Managed programming teams for Respiratory Therapeutic Area (TA) and Experimental Medicine; coordinated programming activities for numerous clinical studies and planned NDA; ensured quality and timeliness of programming deliverables for Respiratory TA. Integrated programming processes for Respiratory TA after merger; implemented a standardized set of macros for reporting for Respiratory TA; worked globally for standardization of data reporting; reviewed clinical study reports, protocols, statistical analysis plans, case report forms and database specifications for Respiratory TA; completed performance evaluations for direct reports. Participated in Electronic Records/Electronic Signatures remediation project; provided statistical programming support as needed for Respiratory TA; generated analysis datasets, tables, listings, and graphs for clinical trial reporting in Respiratory and Clinical Pharmacology areas; worked as part of team to devise new set of standards for data reporting in Respiratory area; rewrote several major analysis programs for Respiratory Therapeutic Area. Wrote numerous small utility programs (macro-based) to increase programming efficiency and assist other programmers with common tasks.
+
+## Education
+
+- **Ph.D. Zoology**, Michigan State University, East Lansing, MI, 1997
+- **M.A. Psychology**, University of Toronto, Toronto, Canada, 1991
+- **B.A. Psychology**, Carleton College, Northfield, MN, 1990
+
+### Postdoctoral and Research Experience
+
+- Postdoctoral Fellow, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, 1997-1998
+- Assistant Research Scientist, Department of Biology, New York University, New York, NY, 1996-1997
+- Graduate Assistant, Michigan State University, East Lansing, MI, 1991-1996
+- Teaching Assistant, University of Toronto, Toronto, Canada, 1990-1991
+
+## Clinical Data Standards Education
+
+- **CDISC Programming Standards Part 1**, DataCeutics, Inc., 2011
+- **CDISC Programming Standards Part 2**, DataCeutics, Inc., 2011
+- **SDTM Training Part 1-12**, DataCeutics, Inc., 2015
+  - Introduction, Data Model & IGs, General Observation Classes, Domains & Variables, Duration & Relative Time Variables, DM + Interventions + Events, DS & Timing Variables, Findings, Relationships, Trial Design, SE & SV, and Conformance & Common Issues
+
+---
+
+*Last updated: `r format(Sys.Date(), "%B %Y")`*
